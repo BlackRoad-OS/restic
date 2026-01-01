@@ -29,7 +29,7 @@ require (
 	github.com/pkg/sftp v1.13.10
 	github.com/pkg/xattr v0.4.12
 	github.com/restic/chunker v0.4.0
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	go.uber.org/automaxprocs v1.6.0
 	golang.org/x/crypto v0.45.0
@@ -97,6 +97,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.37.0 // indirect
 	go.opentelemetry.io/otel/sdk/metric v1.37.0 // indirect
 	go.opentelemetry.io/otel/trace v1.37.0 // indirect
+	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	google.golang.org/genproto v0.0.0-20250603155806-513f23925822 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250818200422-3122310a409c // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251103181224-f26f9409b101 // indirect
